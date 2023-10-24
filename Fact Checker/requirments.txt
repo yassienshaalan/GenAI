@@ -1,0 +1,6 @@
+flask
+openai
+twilio
+pyngrok
+bs4
+fact-checking
